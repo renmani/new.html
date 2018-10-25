@@ -1,0 +1,637 @@
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+
+
+
+body
+{
+	position: absolute;
+	top:0;
+	left:0;
+	margin: 0;
+	background-image: url(light.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	transition: 2s;
+
+}
+.my_bbb
+{
+	position: absolute;
+	top:0;
+	left:0;
+	margin: 0;
+	background-image: url(light.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	transition: 2s;
+	opacity: 0.4;
+}
+
+.header
+{
+	width:100%;
+	height: 300px;
+	position: absolute;
+	top:0;
+	left:0;
+
+
+}
+.header_1
+{
+	width: 50%
+	height:150px;
+	padding: 10px;
+	display: flex;
+}
+.header_15
+{
+	width: 50%
+	height:150px;
+	padding: 10px;
+	display: flex;
+}
+
+
+h1
+{
+	text-transform: uppercase;
+	color:white;
+	padding-right: 30px;
+	font-family: "Acta Display W01 Book";
+    line-height: 1.2;
+    letter-spacing: .091em
+}
+.my_r
+{
+	text-transform:uppercase;
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	font-weight: normal;
+	letter-spacing: 0.25em;
+	padding-right: 15px;
+	margin-bottom: 17px;
+	display: inline-block;
+	margin-top: 30px;
+	font-size:15px;
+	text-decoration: none;
+
+}
+.my_r:hover
+{
+	text-transform:uppercase;
+	color:white;
+	font-family: "Arial";
+	letter-spacing: 0.3em;
+	padding-right: 15px;
+	margin-bottom: 17px;
+	display: inline-block;
+	margin-top: 30px;
+	font-size:15px;
+	text-decoration: underline;
+	transition:0.4s;
+
+}
+.my_a
+{
+	color:white;
+	font-family: "Arial";
+	margin-bottom: 17px;
+	display: inline-block;
+	margin-top: 25px;
+	margin-left: 60px;
+	display: inline-block;
+	width: 
+	font-size:16px;
+	text-decoration: none;
+	transition: 0.1s;
+}
+.link-cyc
+{
+	display: flex;
+}
+.link_maps
+{
+	display: flex;
+	padding-left: 990px;
+}
+.link_mapsik
+{
+	display: flex;
+	padding-left: 880px;
+}
+.my_v
+{
+	color:white;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 26px;
+	margin-left: 750px;
+	font-size: 15px;
+	display: flex;
+}
+.my_v:hover
+{
+	color:white;
+	text-decoration: underline;
+	transition: 1s;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 26px;
+	margin-left: 750px;
+	font-size: 15px;
+	display: flex;
+	transition: 1s;
+}
+.my_l
+{
+	color:white;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 26px;
+	margin-left: 20px;
+	font-size: 15px;
+	display: flex;
+	transition: 1s;
+}
+.my_e
+{
+	color:white;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 26px;
+	margin-left: 20px;
+	font-size: 15px;
+	display: flex;
+	transition: 1s;
+}
+.my_im
+{
+	color:white;
+	margin-bottom:50px;
+	margin-left: 600px;
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	left:10px;
+}
+.my_se
+{
+	padding-left: 10px;
+}
+.my_d
+{
+	color:white;
+	text-decoration: none;
+	font-family: "Arial";
+	margin-top: 26px;
+	margin-left: 20px;
+	font-size: 15px;
+	display: flex;
+}
+.my_b
+{
+	color: white;
+	text-decoration: none;
+	font-family: "Arial";
+	margin-top: 24px;
+	margin-left: 20px;
+	font-size: 15px;
+	display: flex;
+}
+.my_l:hover
+{
+	color:white;
+	text-decoration: underline;
+	transition: 1s;
+	font-family: "Arial";
+	margin-top: 26px;
+	margin-left: 20px;
+	font-size: 15px;
+	display: flex;
+}
+.my_e:hover
+{
+	color:white;
+	text-decoration: underline;
+	transition: 1s;
+	font-family: "Arial";
+	margin-top: 26px;
+	margin-left: 20px;
+	font-size: 15px;
+	display: flex;
+
+}
+.my_im:hover
+{
+	color:white;
+	text-decoration: underline;
+	transition: 1s;
+	margin-bottom:50px;
+	margin-left: 600px;
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	left:10px;
+}
+
+.my_d:hover
+{
+	color:white;
+	text-decoration: underline;
+	transition: 1s;
+	font-family: "Arial";
+	margin-top: 26px;
+	margin-left: 20px;
+	font-size: 15px;
+	display: flex;
+}
+.my_b:hover
+{
+	color: white;
+	text-decoration: underline;
+	transition: 1s;
+	font-family: "HenriDidot";
+	margin-top: 18px;
+	margin-left: 20px;
+	font-size: 15px;
+	display: flex;
+}
+
+.main
+{
+	position: absolute;
+	width: 100%;
+	top: 320px;
+	left: 20px;
+	right: 15px;
+	display: flex;
+	margin: auto;
+	transition: 1s;	
+	opacity: 1;
+}
+.main_maps
+{
+
+	position: absolute;
+	width: 100%;
+	height: 500px;
+	top: 170px;
+	left: 0px;
+	display: flex;
+	margin: auto;
+	transition: 1s;	
+	display: block;
+}
+.my_mm
+{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	opacity: 0.4;
+	transition: 1s;
+	display: flex;
+	padding-left: 30%;
+}
+.my_mm:hover
+{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	opacity: 1;
+	transition: 1s;
+	display: flex;
+
+}
+.my_h1ik
+{
+	
+	list-style: none;
+	font-size: 40px;
+	font-family: "Raleway";
+}
+.my_ul_img
+{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+li
+{
+	padding: 20px;
+	font-size: 18px;
+}
+.my_li
+{
+	padding: 20px;
+	font-size: 18px;
+	list-style: square;
+}
+.main_1
+{
+	width: 50%;
+	height: 400px;
+}
+
+.main_2
+{
+	width: 36%;
+	height: 400px;
+	padding-left: 150px;
+
+}
+.my_G1
+{
+	padding-left: 150px;
+	font-family: Acta Display W01 Book;
+	letter-spacing: -0.08em;
+	font-size: 40px;
+}
+.my_gah
+{
+	text-align: center;
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	font-weight: normal;
+	font-size: 15px;
+	padding-left: 20px;
+	letter-spacing: 0.2em;
+	transition:1s;
+	text-decoration: none;
+}
+.my_god
+{
+	color:white;
+	font-family: "Acta Display W01 Book";
+	text-decoration: none;
+}
+.my_god:hover
+{
+	color:white;
+	font-family: "Acta Display W01 Book";
+	text-decoration: underline;
+}
+.my_gah:hover
+{
+	text-align: center;
+	color:white;
+	letter-spacing: 0.2em;
+	text-decoration: underline;
+	transition: 1s;
+}
+.my_gah2
+{
+	text-align: center;
+	padding-right: 300px;
+}
+.footer
+{
+	width: 100%;
+	height: 180px;
+	margin: auto;
+	background-color: #181818;
+}
+.my_foot1
+{
+	color: silver;
+	font-family: "Raleway", sans-serif;
+	font-size: 12px;
+	padding: auto;
+}
+.my_foot2
+{
+	color:silver;
+
+}
+
+.footer_2
+{
+	width: 100%;
+	height: 135px;
+}
+.footer_3
+{
+	padding-left: 650px;
+}
+ul
+{
+	color:white;
+	font-family:"Raleway";
+}
+.my_img_cust
+{
+	width: 99.8%;
+	height: 50%;
+	
+	
+}
+.main_cust1
+{
+	background-color: black;
+	width: 620px;
+	height: 880px;
+	opacity: 0.8;
+	transition: 1s;
+}
+.main_cust1:hover
+{
+	background-color: black;
+	width: 620px;
+	height: 880px;
+	opacity:1;
+}
+.my_text_cust
+{
+	color:white;
+	font-weight: normal;
+	font-size: "Arial";
+	opacity: 0.9;
+	padding-left: 10px;
+}
+.my_text_cust:hover
+{
+	color:white;
+	font-weight: normal;
+	font-size: "Arial";
+	opacity: 1;
+	padding-left: 10px;
+}
+.main_cust2
+{
+	background-color: black;
+	width: 620px;
+	height: 880px;
+	opacity: 0.6;
+	transition: 1s;
+}
+
+.main_cust2:hover
+{
+	background-color: black;
+	width: 620px;
+	height: 880px;
+	opacity:1;
+}
+.main_cust3
+{
+	background-color: black;
+	width: 620px;
+	height: 880px;
+	opacity: 0.6;
+	transition: 1s;
+}
+
+.main_cust3:hover
+{
+	background-color: black;
+	width: 620px;
+	height: 880px;
+	opacity:1;
+}
+
+.my_inp
+{
+	color:black;
+	background-color: silver;
+	font-size: 176px;
+	font-family: 'Raleway', sans-serif;
+	border-radius: 10px;
+	position: absolute;
+	top: 420px;
+	left: 20px;
+	opacity: 0.4;
+	transition: 1s;
+
+}
+.my_inp:hover
+{
+	color:black;
+	background-color: silver;
+	font-size: 176px;
+	border-radius: 10px;
+	position: absolute;
+	top: 420px;
+	left: 20px;
+	opacity: 1;
+
+}
+
+/*aystexic sksvec fashion.html kody*/
+/*aystexic sksvec fashion.html kody*/
+.my_one
+{
+	width: 200px;
+	height: 80px;
+	border:1px solid black;
+}
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+/*INDEX MY ARANDZINAAAAAAAAAAAAAAAAA*/
+
+
+
+
+
+
+
+
+/*FASHION MY ARANDZINAAAAAAAAAAAA*/
+/*FASHION MY ARANDZINAAAAAAAAAAAA*/
+/*FASHION MY ARANDZINAAAAAAAAAAAA*/
+/*FASHION MY ARANDZINAAAAAAAAAAAA*/
+/*FASHION MY ARANDZINAAAAAAAAAAAA*/
+
+
+
+.my_main_fash1
+{
+	height: 1130px;
+    width: 1230px;
+    position: absolute;
+    top: 250px;
+    left: 280px; 
+    transition: 1s;
+
+}
+.my_main_fash1:hover
+{
+	height: 1130px;
+    width: 1230px;
+    position: absolute;
+    top: 250px;
+    left: 280px;
+
+
+}
+.my_main_f2
+{
+	height: 600px;
+	width: 1200px;
+	box-sizing: border-box;
+	display:flex;
+	padding: 10px;
+}
+.my_main_f3
+{
+	height: 503px;
+	width: 1200px;
+	box-sizing: border-box;
+	display: flex;
+	padding: 10px;
+}
+.my_main_m1
+{
+	height: 599px;
+	width: 500px;
+	box-sizing: border-box;
+}
+.my_main_m2
+{
+	height: 599px;
+	width: 800px;
+	box-sizing: border-box;
+}
+.my_main_e1
+{
+	height: 300px;
+	width: 800px;
+	display: flex;
+}
+.my_main_e2
+{
+	height: 300px;
+	width: 800px;
+	box-sizing: border-box;
+	display: flex;
+}
+.my_main_t1, .my_main_t2, .my_main_v1, .my_main_v2
+{
+	width: 400px;
+	height: 300px;
+	box-sizing: border-box;
+}
+.my_main_g1
+{
+	height: 503px;
+	width: 400px;
+	box-sizing: border-box;
+}
+.my_main_g2
+{
+	height: 503px;
+	width: 800px;
+	box-sizing: border-box;
+	display: flex;
+}
+
+
+
+
+
+
